@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\CountryAPI_ConsoleApp.exe
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\CountryAPI_ConsoleApp.pdb
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\obj\Debug\CountryAPI_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\obj\Debug\CountryAPI_ConsoleApp.exe
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\obj\Debug\CountryAPI_ConsoleApp.pdb
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\obj\Debug\CountryAPI_ConsoleApp.csproj.CopyComplete
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\obj\Debug\CountryAPI_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\CountryAPI_ConsoleApp.exe.config
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\CountryAPI.BL.dll
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\CountryAPI.BL.pdb
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\CountryAPI.BL.dll.config
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\CountryAPI_ConsoleApp\CountryAPI_ConsoleApp\bin\Debug\Newtonsoft.Json.xml
